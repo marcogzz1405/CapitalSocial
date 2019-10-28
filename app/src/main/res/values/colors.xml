@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#CCCCCC</color>
+    <color name="colorAccent">#FF149B</color>
+    <color name="colorAccentDark">#CC107C</color>
+
+    <color name="white">#ffffff</color>
+    <color name="orange">#ed9e00</color>
+    <color name="light_blue">#59AAFF</color>
+    <color name="blue">#2C7DE3</color>
+    <color name="dark_blue">#1C6AC9</color>
+    <color name="light_gray">#F0F5F5</color>
+    <color name="translucent_white">#80FFFFFF</color>
+    <color name="dark_gray">#243037</color>
+    <color name="bg_card_mastercard">#243747</color>
+    <color name="bg_card_amex">#6ab094</color>
+    <color name="title_card">#D8D8D8</color>
+    <color name="radio_button_checked_border">#0B99CE</color>
+    <color name="background_button_search">#F15A24</color>
+    <color name="background_button_gray">#F5F5F5</color>
+    <color name="background_card_service_found">#0B99CE</color>
+    <color name="text_color_price">#F15A24</color>
+    <color name="background_price">#FEE7CC</color>
+    <color name="background_go_to_my_services">#FD5739</color>
+</resources>

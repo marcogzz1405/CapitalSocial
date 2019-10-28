@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">CapitalSocial</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_scan_qr">Escanear código QR</string>
+    <string name="message_title">o ingresa tu correo y contraseña</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">El e-mail es invalido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">El campo es requerido</string>
+    <string name="error_invalid_phone_number">El número is invalido</string>
+    <string name="error_invalid_code">Código inválido</string>
+    <string name="do_not_have_account">Registrarte</string>
+    <string name="create_account">Crea una cuenta nueva</string>
+    <string name="reset_password">¿Has olvidado tu contraseña?</string>
+    <string name="create_account_title">Crear Cuenta: Datos</string>
+    <string name="reset_password_title">Reset Password</string>
+    <string name="action_reset_password">Recuperar contraseña</string>
+    <string name="title_message">Mensaje</string>
+    <string name="message">Acción no implementada</string>
+    <string name="accept">Aceptar</string>
+    <string name="error_title">Error</string>
+
+    <!-- Grid's name -->
+    <string name="papa_johns">Papa Johns</string>
+    <string name="idea_interior">Idea Interior</string>
+    <string name="burguer_king">Burguer King</string>
+    <string name="farmacia_benavides">Farmacia Benavides</string>
+    <string name="el_tizoncito">El Tizoncito</string>
+    <string name="chillis">Chillis</string>
+    <string name="zona_fitness">Zona Fitness</string>
+    <string name="cinepolis">Cinepolis</string>
+    <string name="italiannis">Italliannis</string>
+    <string name="winstop">WingsTop</string>
+
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
+        has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type
+        and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into
+        electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of
+        Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus
+        PageMaker including versions of Lorem Ipsum.
+    </string>
+    <string name="google_maps_key"></string>
+    <string name="gps_network_not_enabled">No esta habilitado la localización</string>
+    <string name="open_location_settings">Activar</string>
+    <string name="Cancel">Cancelar</string>
+</resources>
