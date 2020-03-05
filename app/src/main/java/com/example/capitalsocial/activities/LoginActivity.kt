@@ -54,6 +54,8 @@ class LoginActivity : BaseActivity(), ListenerRegister {
 
     private fun scan() {
         showMessage(1, "Error", "Esta en mantenimiento esta parte.")
+        //Huawei Y9s
+        //Samsung A50
     }
 
     private fun attempLogin() {
