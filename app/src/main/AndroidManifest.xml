@@ -52,7 +52,7 @@
                 android:name=".activities.LoginActivity"
                 android:theme="@style/NoActionBar">
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".activities.MainActivity">
         </activity>
 
         <meta-data

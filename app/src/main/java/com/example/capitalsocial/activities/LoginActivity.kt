@@ -94,10 +94,10 @@ class LoginActivity : BaseActivity(), ListenerRegister {
         super.onActivityResult(requestCode, resultCode, data)
         if(requestCode == 0){
             if(resultCode == Activity.RESULT_OK){
-                Log.e("LoginActivity", "Resultado ---> " + data.toString())
+                //Log.e("LoginActivity", "Resultado ---> " + data.toString())
             }
             if(resultCode == Activity.RESULT_CANCELED) {
-                Log.e("LoginActivity", "Cancel")
+                //Log.e("LoginActivity", "Cancel")
             }
         }
     }

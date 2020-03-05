@@ -4,8 +4,7 @@ import android.content.Context
 import android.view.inputmethod.InputMethodManager
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import androidx.fragment.app.Fragment
-import com.example.capitalsocial.MainActivity
+import com.example.capitalsocial.activities.MainActivity
 import com.example.capitalsocial.R
 import com.example.capitalsocial.activities.LoginActivity
 import com.example.capitalsocial.activities.MapActivity

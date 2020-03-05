@@ -1,13 +1,13 @@
-package com.example.capitalsocial
+package com.example.capitalsocial.activities
 
 import android.content.Context
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.capitalsocial.R
 import com.example.capitalsocial.adapters.MyAdapter
 import com.example.capitalsocial.bases.BaseActivity
 import com.example.capitalsocial.models.CardViewData
@@ -18,16 +18,36 @@ class MainActivity : BaseActivity() {
     val stateArray: ArrayList<CardViewData> = ArrayList()
 
     val state = arrayOf(
-        CardViewData("Papa John's", R.drawable.logo_papa_johns),
-        CardViewData("Idea Interior", R.drawable.promo_idea),
-        CardViewData("Burguer King", R.drawable.promo_burguer_king),
-        CardViewData("Farmacia Benavides", R.drawable.promo_benavides),
-        CardViewData("El Tizoncito", R.drawable.promo_tizoncito),
-        CardViewData("Chilli's", R.drawable.promo_chilis),
-        CardViewData("Zona Fitness", R.drawable.promo_zona_fitness),
-        CardViewData("Cinepolis", R.drawable.promo_cinepolis),
-        CardViewData("Italiannis", R.drawable.promo_italiannis),
-        CardViewData("Wingstop", R.drawable.promo_wingstop)
+        CardViewData("Papa John's",
+            R.drawable.logo_papa_johns
+        ),
+        CardViewData("Idea Interior",
+            R.drawable.promo_idea
+        ),
+        CardViewData("Burguer King",
+            R.drawable.promo_burguer_king
+        ),
+        CardViewData("Farmacia Benavides",
+            R.drawable.promo_benavides
+        ),
+        CardViewData("El Tizoncito",
+            R.drawable.promo_tizoncito
+        ),
+        CardViewData("Chilli's",
+            R.drawable.promo_chilis
+        ),
+        CardViewData("Zona Fitness",
+            R.drawable.promo_zona_fitness
+        ),
+        CardViewData("Cinepolis",
+            R.drawable.promo_cinepolis
+        ),
+        CardViewData("Italiannis",
+            R.drawable.promo_italiannis
+        ),
+        CardViewData("Wingstop",
+            R.drawable.promo_wingstop
+        )
     )
 
     companion object {
