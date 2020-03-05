@@ -53,7 +53,7 @@ class LoginActivity : BaseActivity(), ListenerRegister {
     }
 
     private fun scan() {
-
+        showMessage(1, "Error", "Esta en mantenimiento esta parte.")
     }
 
     private fun attempLogin() {
